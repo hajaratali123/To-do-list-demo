@@ -1,0 +1,45 @@
+body {
+    background-color: #160C28;
+}
+
+div {
+    width: 500px;
+    height: auto;
+    background-color: #EFCB68;
+    border: 2px solid rgb(239, 232, 232);
+    margin: auto;
+}
+
+div h1 {
+    text-align: center;
+    background-color: #E1EFE6;
+}
+
+#input {
+    width: 450px;
+    display: grid;
+    color: #000411;
+}
+
+ul {
+    background-color: #AEB7B3;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    background-color: #E1EFE6;
+}
+
+#input {
+    background-color: #AEB7B3;
+}
+
+#btn {
+    background-color: #000411;
+    color: wheat;
+}
+
+.delete {
+    background-color: rgb(232, 94, 94);
+    text-align: center;
+}
